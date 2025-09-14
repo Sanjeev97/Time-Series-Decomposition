@@ -1,0 +1,13 @@
+/checkpoints/
+/dataset/
+/results/
+/test_results/
+/logs/
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
