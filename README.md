@@ -1,4 +1,4 @@
-# TSDecomposition: Revisiting the Decomposition for Time Series Forecasting
+# TSDecomposition: Revisiting the Decomposition for Time Series Forecasting (ICASSP 2026)
 
 A PyTorch implementation of decomposition-enhanced time series forecasting models that improve state-of-the-art architectures through strategic time series decomposition techniques.
 
